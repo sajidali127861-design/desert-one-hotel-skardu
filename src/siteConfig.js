@@ -309,12 +309,12 @@ export const ROOMS_PAGE = {
   text: `Each accommodation at ${HOTEL_SHORT_NAME} is a handcrafted retreat — designed to blend heritage architecture with modern comfort against the backdrop of the Karakoram.`,
   categories: [
     "All",
-    "Standard Triple Room",
-    "Deluxe Triple Room",
-    "Superior Triple Room",
-    "King Room",
-    "Superior Queen Room",
-    "Stand King Room"
+    "Standard Triple",
+    "Deluxe Triple",
+    "Superior Triple",
+    "King",
+    "Superior Queen",
+    "Standard King"
   ],   // room ki "category" (rooms.js) se match hona chahiye
   empty: "No rooms in this category.",
 };

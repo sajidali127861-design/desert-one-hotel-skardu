@@ -1,6 +1,5 @@
 // data/rooms.js
 import { IMGS } from "../assets/images.js";
-
 const COMMON_AMENITIES = [
   "Breakfast included",
   "High-speed Free Wi-Fi",
@@ -10,12 +9,11 @@ const COMMON_AMENITIES = [
   "Complimentary water & refreshments on arrival",
   "24-hour security",
 ];
-
 export const ROOMS = [
   {
     id: "Room_One",
     name: "Standard Triple Room",
-    category: "Standard Triple Room",
+    category: "Standard Triple",
     price: "PKR  7,196",
     // priceAC: "PKR 9,000", // <-- UPDATE THIS PRICE AS PER YOUR REAL AC RATE
     priceNum: 7196,
@@ -61,7 +59,7 @@ export const ROOMS = [
   {
     id: "Room_Two",
     name: "Deluxe Triple Room",
-    category: "Deluxe Triple Room",
+    category: "Deluxe Triple",
     price: "PKR 8,883",
     //  priceAC: "PKR 22,000",
     priceNum: 8883,
@@ -107,7 +105,7 @@ export const ROOMS = [
   {
     id: "Room_Three",
     name: "Superior Triple Room",
-    category: "Superior Triple Room",
+    category: "Superior Triple",
     price: "PKR 12,540",
     priceNum: 12540,
     inventory: 1,       // Only 1 room available
@@ -150,7 +148,7 @@ export const ROOMS = [
   {
     id: "Room-Four",
     name: "King Room",
-    category: "King Room",
+    category: "King",
     price: "PKR 13,300",
     priceNum: 13300,
     inventory: 1,       // Assuming 1 unit, adjust if needed
@@ -197,7 +195,7 @@ export const ROOMS = [
   {
     id: "Room-Five",
     name: "Superior Queen Room",
-    category: "Superior Queen Room",
+    category: "Superior Queen",
     price: "PKR 12,000",
     priceNum: 12000,
     inventory: 1,       // Assuming 1 unit, adjust if needed
@@ -244,7 +242,7 @@ export const ROOMS = [
   {
     id: "Room-Six",
     name: "Standard King Room",
-    category: "Stand King Room",
+    category: "Standard King",
     price: "PKR 8,636",
     priceNum: 8636,
     inventory: 1,       // Assuming 1 unit, adjust if needed
