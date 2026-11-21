@@ -14,7 +14,7 @@ export const HOTEL_TAGLINE = "Where the Mountains Meet Timeless Luxury";
 export const HOTEL_LOCATION = "Desert One Hotel Airport Road Astana Chonghi Skardu, 16100 Skardu, Pakistan";
 export const HOTEL_EMAIL = "desertonehotel.skardu@gmail.com";
 export const HOTEL_PHONE = "03101988660";
-export const WHATSAPP_NUMBER = "03101988660";               // + ke baghair
+export const WHATSAPP_NUMBER = "+923101988660";               // + ke baghair
 // Room detail page ke "CALL US AT" box mein ye alag number dikhta hai (pehle se aisa hi tha).
 // Agar dono same karne hon to yahan HOTEL_PHONE likh do.
 export const HOTEL_ROOM_PAGE_PHONE = "03101988660";
