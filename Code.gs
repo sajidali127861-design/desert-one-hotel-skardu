@@ -8,7 +8,7 @@
 const HOTEL_NAME = "Desert One Hotel Skardu";
 
 // 👇 2) Wo Gmail jis par booking emails aani chahiye
-const NOTIFY_EMAIL = "your-gmail@gmail.com";
+const NOTIFY_EMAIL = "sajidali7861@gmail.com";
 
 // Name of the sheet tab where bookings will be stored (auto-created)
 const SHEET_NAME = "Bookings";

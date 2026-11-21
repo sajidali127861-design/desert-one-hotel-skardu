@@ -34,7 +34,7 @@ export const MAP_OPEN_URL = "https://www.google.com/maps/search/?api=1&query=Des
 export const PLUS_CODE = "16100 Skardu, Gilgit-Baltistan";
 
 // Google Apps Script (booking form -> Sheet + email). Setup steps: README.md
-export const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzB679vijSyhfyd4gv0JU2KfmH7AxJ2-8FkaqGbN1sxhKjYZgRpJgph2V2rxmonled6uQ/exec";
+export const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw1654lqMUo7gU1Giy8isaz6eS5QoT_89je5EVox7HSX3mCqzIP9-xEYjjm1RUfNe4scw/exec";
 
 /* ───────────── 3. BOOKING POLICY (modal ke rules) ───────────── */
 export const BOOKING_POLICY = {
